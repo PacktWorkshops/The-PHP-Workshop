@@ -26,7 +26,6 @@ class Vehicle
     {
         return $this->color;
     }
-
     function getNoOfWheels()
     {
         return $this->noOfWheels;
