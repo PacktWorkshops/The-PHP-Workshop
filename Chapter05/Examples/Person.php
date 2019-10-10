@@ -16,14 +16,18 @@ class Person
 	}
 	function sayGreetings()
 	{
-		if(date('G') < 12) {
+		if(date('G') < 12) 
+		{
 			$greetings = 'Good Morning';
-		} elseif(date('G') < 17) {
+		} 
+		elseif(date('G') < 17) 
+		{
 			$greetings = 'Good Afternoon';
-		} else {
+		} 
+		else 
+		{
 			$greetings = 'Good Evening';
 		}
-
 		echo "$greetings $this->name! ";
 	}
 
