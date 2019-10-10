@@ -108,7 +108,6 @@ abstract class AbstractVehicle
             echo "Error: undefined attribute. " . PHP_EOL;
         }
     }
-
     function __call($method, $arguments)
     {
         switch ($method) {
@@ -118,12 +117,10 @@ abstract class AbstractVehicle
                 } else {
                     echo "Honking... " . PHP_EOL;
                 }
-
                 if (isset($arguments[1])) {
                     echo "$arguments[1] enabled... " . PHP_EOL;
                 }
                 break;
-
             default:
                 echo "The method $method() called. " . PHP_EOL;
                 break;
