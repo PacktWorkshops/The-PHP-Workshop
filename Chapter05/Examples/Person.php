@@ -1,27 +1,21 @@
 <?php
 class Person 
-{
-	
+{	
 	public $name;
-
 	function __construct($username)
 	{
 		$this->name = $username;
 	}
-	
 	function getName()
 	{
 		return $this->name;
 	}
-
 	function setName()
 	{
 		$this->name = 'Jhon Doe';
 	}
-
 	function sayGreetings()
 	{
-		
 		if(date('G') < 12) {
 			$greetings = 'Good Morning';
 		} elseif(date('G') < 17) {
