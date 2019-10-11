@@ -1,0 +1,7 @@
+<element>
+    <propery attr=”some attribute”>value</property>
+    <items>
+        <item>some value</item>
+        <item>some other value</item>
+    </items>
+</element>

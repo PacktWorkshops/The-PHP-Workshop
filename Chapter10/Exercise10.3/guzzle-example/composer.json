@@ -1,0 +1,13 @@
+{
+    "name": "mmccollum/guzzle-example",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mark McCollum",
+            "email": "mccollum.mark@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
