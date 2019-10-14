@@ -1,9 +1,6 @@
 <?php
-
 namespace Packt;
-
 use Monolog\Logger;
-
 Class Example
 {
 	public function __construct(Logger $logger)
