@@ -27,7 +27,7 @@ function factorial(int $number): float
 */
 function sum(): float
 {
-return array_sum(func_get_args());
+    return array_sum(func_get_args());
 }
 
 /**
