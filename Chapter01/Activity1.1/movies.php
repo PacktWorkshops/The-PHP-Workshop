@@ -17,8 +17,7 @@ $year = $_GET['movieYear'];
             <p>
             Based on the input, here is the information so far:
             <br>
-            <?php echo $star . ' starred in the movie ' . $name .' 
-                       which was released in year ' . $year; ?>
+            <?php echo $star . ' starred in the movie ' . $name .' which was released in year ' . $year; ?>
             </p>
         </div>
     </body>
