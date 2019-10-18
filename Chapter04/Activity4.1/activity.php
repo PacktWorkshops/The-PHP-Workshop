@@ -12,12 +12,12 @@ declare(strict_types=1);
 */
 function factorial(int $number): float
 {
-$factorial = $number;
-while ($number > 2) {
-$number--;
-$factorial *= $number;
-}
-return $factorial;
+    $factorial = $number;
+    while ($number > 2) {
+        $number--;
+        $factorial *= $number;
+    }
+    return $factorial;
 }
 
 /**
@@ -38,19 +38,19 @@ return array_sum(func_get_args());
 * @param int $number
 * @return bool
 */
-function prime(int $number): bool
-{
-// everything equal or smaller than 2 is not a prime number
-if (2 >= $number) {
-return false;
-}
-for ($i = 2; $i <= sqrt($number); $i++) {
-if ($number % $i === 0) {
-return false;
-}
-}
-return true;
-}
+ function prime(int $number): bool
+ {
+     // everything equal or smaller than 2 is not a prime number
+     if (2 >= $number) {
+         return false;
+     }
+     for ($i = 2; $i <= sqrt($number); $i++) {
+         if ($number % $i === 0) {
+             return false;
+         }
+     }
+     return true;
+ }
 
 /**
 * @param string $operation
