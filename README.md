@@ -10,9 +10,7 @@ This is the repository for [The PHP Workshop](https://courses.packtpub.com/cours
 <a href="https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20PHP%20Workshop.jpg" alt="The PHP Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
-1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
-2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
-3. Install [Docker](https://docs.docker.com/docker-for-windows/install/)
+1. Install PHP on [Windows](https://windows.php.net/download/)
 
 ## About The PHP Workshop
 You already know you want to learn PHP 7, and a smarter way to learn PHP development is to learn by doing. [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop) focuses on building up your practical skills so that you can develop cutting-edge, high-performance web applications. It’s ideal if you’re looking to work with an existing application, or even develop your own side project with a PHP framework like Laravel. You'll learn from real examples that lead to real results.
