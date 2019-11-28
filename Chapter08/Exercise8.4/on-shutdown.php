@@ -1,6 +1,6 @@
 <?php
 
-$errorHandler = require_once 'error-handler.php';
+$errorHandler = require_once 'err-common/error-handler.php';
 
 register_shutdown_function(
     function () use ($errorHandler) {

@@ -2,7 +2,7 @@
 
 echo 'SCRIPT START.', PHP_EOL;
 
-require_once 'exception-handler.php';
+require_once 'err-common/exception-handler.php';
 
 try {
 

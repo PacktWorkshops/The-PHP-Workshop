@@ -1,6 +1,6 @@
 <?php
 
-require_once 'error-handler.php';
+require_once 'err-common/error-handler.php';
 
 if (!array_key_exists(1, $argv)) {
     trigger_error('This script requires a number as first argument.', E_USER_ERROR);

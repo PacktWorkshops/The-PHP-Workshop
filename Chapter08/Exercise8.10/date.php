@@ -1,6 +1,6 @@
 <?php
 
-require_once 'all-errors-handler.php';
+require_once 'err-common/all-errors-handler.php';
 
 class Disposable extends Exception
 {
