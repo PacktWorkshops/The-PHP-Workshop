@@ -1,7 +1,7 @@
 <?php
 
 /** @var PDO $pdo */
-$pdo = require 'connection.php';
+$pdo = require 'db-common/connection.php';
 
 $statement = "SELECT * FROM users";
 

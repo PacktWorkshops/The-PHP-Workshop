@@ -1,7 +1,7 @@
 <?php
 
 /** @var PDO $pdo */
-$pdo = require 'connection.php';
+$pdo = require 'db-common/connection.php';
 
 $insertStmt = $pdo->prepare("INSERT INTO users (email) VALUES (:email)");
 

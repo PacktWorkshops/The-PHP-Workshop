@@ -3,7 +3,6 @@
 namespace Tests;
 
 use Handlers\Handler;
-use Handlers\Login;
 use Handlers\Logout;
 use Handlers\Profile;
 use PHPUnit\Framework\TestCase;

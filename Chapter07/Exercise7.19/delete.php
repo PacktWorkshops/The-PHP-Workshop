@@ -1,7 +1,7 @@
 <?php
 
 /** @var PDO $pdo */
-$pdo = require 'connection.php';
+$pdo = require 'db-common/connection.php';
 
 $partialMatch = $argv[1] ?? '';
 $deleteStmt = $pdo->prepare("DELETE FROM users WHERE email LIKE :partialMatch");
