@@ -11,6 +11,8 @@ This is the repository for [The PHP Workshop](https://courses.packtpub.com/cours
 
 To get started with the project files, you'll need to:
 1. Install PHP on [Windows](https://windows.php.net/download/)
+2. MySQL Workbench on [Windows](https://dev.mysql.com/downloads/installer/)
+3. Installing Composer on [Ubuntu or Mac](https://getcomposer.org/download/), [Windows](https://getcomposer.org/Composer-Setup.exe)
 
 ## About The PHP Workshop
 You already know you want to learn PHP 7, and a smarter way to learn PHP development is to learn by doing. [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop) focuses on building up your practical skills so that you can develop cutting-edge, high-performance web applications. It’s ideal if you’re looking to work with an existing application, or even develop your own side project with a PHP framework like Laravel. You'll learn from real examples that lead to real results.
