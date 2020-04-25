@@ -10,3 +10,5 @@ $logger->pushHandler(new StreamHandler('./logs/app.log', Logger::INFO));
 
 $e = new Packt\Example($logger);
 $e->doSomething();
+
+$e->printUuid();
