@@ -12,10 +12,9 @@ $sum = $param1 + $param2;
 
 return "The sum of $param1 and $param2 is: $sum";
 
-return 'The sum of ' . $param1 . ' and ' . $param2 ' . ' is: ' . $sum;
+//return 'The sum of ' . $param1 . ' and ' . $param2 . ' is: ' . $sum;
+}
 
 echo add(1, 2);
 
 echo PHP_EOL;
-
-}
