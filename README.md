@@ -7,7 +7,7 @@
 This is the repository for [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20PHP%20Workshop.jpg" alt="The PHP Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
+<a href="https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20PHP%20Workshop.png" alt="The PHP Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install PHP on [Windows](https://windows.php.net/download/)
