@@ -28,9 +28,9 @@ Filled with practical examples, [The PHP Workshop](https://www.amazon.com/PHP-Wo
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
-* [The JavaScript Workshop](https://www.amazon.com/JavaScript-Workshop-Interactive-Approach-Learning-ebook/dp/B0824584WF/ref=sr_1_1?crid=2VE7Z9T4SONJA&dchild=1&keywords=javascript+workshop&qid=1611125394&sprefix=javascript+works%2Caps%2C704&sr=8-1)
-* [The Go Workshop](https://www.amazon.com/Go-Workshop-Interactive-Approach-Learning-ebook/dp/B083CQPY33/ref=sr_1_1?dchild=1&keywords=go+workshop&qid=1611125440&sr=8-1)
-* [The React Workshop](https://www.amazon.com/React-Workshop-Interactive-Approach-Learning-ebook/dp/B082VG6JCL/ref=sr_1_2?crid=2VE7Z9T4SONJA&dchild=1&keywords=javascript+workshop&qid=1611125394&sprefix=javascript+works%2Caps%2C704&sr=8-2)
+* [The JavaScript Workshop](https://www.amazon.com/JavaScript-Workshop-Interactive-Approach-Learning-ebook/dp/B0824584WF/ref=sr_1_1?dchild=1&keywords=The%20JavaScript%20Workshop&qid=1611056880&sr=8-1&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781838641917&utm_term=JavaScript&utm_content=The%20JavaScript%20Workshop)
+* [The Go Workshop](https://www.amazon.com/Go-Workshop-Interactive-Approach-Learning-dp-1838647945/dp/1838647945/ref=mt_other?_encoding=UTF8&me=&qid=1611061203&utm_source=github&utm_medium=repository&utm_campaign=9781838647940&utm_term=Go&utm_content=The%20Go%20Workshop)
+* [The React Workshop](https://www.amazon.com/React-Workshop-Interactive-Approach-Learning-ebook/dp/B082VG6JCL/ref=sr_1_1?dchild=1&keywords=The%20React%20Workshop&qid=1611056710&sr=8-1&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781838645564&utm_term=React&utm_content=The%20React%20Workshop)
 
 
 
